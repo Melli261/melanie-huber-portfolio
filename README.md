@@ -1,45 +1,33 @@
-# Melanie Huber — Media × Software Portfolio
+# Melanie Huber Portfolio
 
-A lightweight static portfolio inspired by the dark editorial / timeline style from the reference screenshots.
+A personal portfolio showcasing selected work across media production, UI/UX, web development and software engineering.
 
-## Quick start
+The portfolio reflects my background in Media Computer Science and my experience working across creative and technical projects — from video production and user experience to software architecture and real-time systems.
 
-Open `index.html` directly in a browser, or serve the folder locally:
+## Featured areas
 
-```bash
-python -m http.server 8000
-```
+- Video production and post-production
+- UI/UX and usability
+- Web development
+- Software engineering
+- Technical systems and real-time applications
 
-Then open `http://localhost:8000`.
+Some professional media projects cannot be shared publicly due to usage rights and confidentiality. In those cases, the portfolio focuses on my responsibilities, workflows and contribution to the project.
 
-## Add your three videos
+## Tech
 
-Put your MP4 files in `assets/videos/` using exactly these names:
+Built with:
+- HTML
+- CSS
+- JavaScript
 
-- `student-film-01.mp4`
-- `student-film-02.mp4`
-- `real-estate.mp4`
+Hosted with GitHub Pages.
 
-The placeholders disappear automatically once the browser can load the video files. The BMW, Catena-X and e-learning sections intentionally remain text-based because the final material cannot be published.
+## Portfolio
 
-## Change links
+Live site: [[add GitHub Pages URL here]](https://melli261.github.io/melanie-huber-portfolio/)
 
-In `index.html`, replace the placeholder LinkedIn, GitHub and email URLs with your own.
+## Contact
 
-## Edit copy
-
-Everything is in `index.html`. You can remove any case-study section you do not want.
-
-## Deploy
-
-Because this is plain HTML/CSS/JS, you can deploy it for free on GitHub Pages, Netlify, Vercel, Cloudflare Pages, or any static host.
-
-
-## Portfolio structure
-
-- BMW Group: internal communication for BMW Group Purchasing; no public video
-- Catena-X: produced as part of the BMW role; no public video
-- Zurich Versicherungsagentur Franz Huber: script support, filming and post-production; no public video
-- Student Film 01: everyday-action exercise documenting a full car-wash process
-- Student Film 02: travel video for a self-built blog about Thailand, Vietnam and Indonesia
-- Real Estate Video: independent property presentation
+LinkedIn: [add link]  
+GitHub: [add link]
