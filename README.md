@@ -25,9 +25,9 @@ Hosted with GitHub Pages.
 
 ## Portfolio
 
-Live site: [[add GitHub Pages URL here]](https://melli261.github.io/melanie-huber-portfolio/)
+Live site: [(https://melli261.github.io/melanie-huber-portfolio/)]
 
 ## Contact
 
-LinkedIn: [add link]  
-GitHub: [add link]
+LinkedIn: [https://www.linkedin.com/in/melanie-huber-095b6221a/]  
+GitHub: [(https://github.com/Melli261)]
